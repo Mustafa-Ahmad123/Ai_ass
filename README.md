@@ -37,14 +37,7 @@ The script tracks and outputs:
 
   * Python 3.x
 
-### Installation
 
-Clone the repository to your local machine:
-
-```bash
-git clone https://github.com/Roay-Abdullah/Sudoku-Solver-CSP.git
-cd Sudoku-Solver-CSP
-```
 
 ### Usage
 
